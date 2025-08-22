@@ -14,7 +14,7 @@ const Hero = ({
           src={image}
           alt={mainHeader || "Hero image"}
           fill
-          className="brightness-50 object-cover"
+          className="brightness-50 h-full w-full object-cover"
           priority
         />
         <div
