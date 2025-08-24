@@ -26,7 +26,7 @@ const Card = ({ place }) => {
       {/* Data Section */}
       <div className="w-full flex flex-col gap-4 p-4">
         <div className="mt-2 flex justify-between items-center">
-          <h2 className="text-left text-2xl text-slate-800 font-semibold">
+          <h2 className="text-left text-2xl text-white font-semibold">
             {place.name}
           </h2>
           <span className="p-2 rounded-full bg-blue-600 text-white flex items-center gap-2">

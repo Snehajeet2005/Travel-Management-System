@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.2.1",
     "currency": "^4.1.0",
     "currency-formatter": "^1.5.9",
     "date-fns": "^4.1.0",
@@ -17,8 +18,12 @@
     "react": "19.1.0",
     "react-date-range": "^2.0.1",
     "react-dom": "19.1.0",
+    "react-hook-form": "^7.62.0",
+    "react-hot-toast": "^2.6.0",
     "react-icons": "^5.5.0",
-    "swiper": "^11.2.10"
+    "react-loader-spinner": "^6.1.6",
+    "swiper": "^11.2.10",
+    "zod": "^4.1.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
