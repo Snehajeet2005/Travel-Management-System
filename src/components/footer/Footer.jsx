@@ -14,15 +14,15 @@ const Footer = () => {
                 </div>
                 <div className="flex-1 flex flex-col items-center gap-4">
                     <h2>Contacts</h2>
-                    <span>Phone +123 456 789</span>
-                    <span>YouTube: WebDevMania</span>
-                    <span>GitHub: WebDevMania</span>
+                    <span>Phone: 033 456 789</span>
+                    <span>YouTube: TravelGod</span>
+                    <span>GitHub: TravelGod</span>
                 </div>
                 <div className="flex-1 flex flex-col items-end gap-4">
                     <h2>Location</h2>
-                    <span>Continent: Europe</span>
-                    <span>Country: Bulgaria</span>
-                    <span>Current Location: Bulgaria</span>
+                    <span>Continent: Asia</span>
+                    <span>Country: India</span>
+                    <span>Current Location: Kolkata</span>
                 </div>
             </div>
         </div>
